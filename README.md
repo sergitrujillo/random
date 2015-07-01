@@ -1,0 +1,1 @@
+Programa en javascript que devuelve un numero aleatorio expresando su posicion respecto al 0.5 -si es mayor o menor-
